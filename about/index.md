@@ -2,6 +2,7 @@
 layout: page
 title: About Anarchic.Media
 excerpt: "News for you, the one's who will change the world."
+author: Jerrick
 modified: 2017-07-22T11:16:51.564948-06:00
 image:
   feature: so-simple-sample-image-4.jpg
