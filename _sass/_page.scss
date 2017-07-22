@@ -146,10 +146,10 @@ span + .entry-title {
 
 	@include media($large) {
 		display: block;
-		width: 150px;
-		height: 150px;
+		width: 200px;
+		height: 200px;
 		margin-bottom: 10px;
-		@include rounded(150px);
+		@include rounded(200px);
 		@include clearfix;
 	}
 }
