@@ -13,4 +13,6 @@ image:
 
 ## At Anarchic.Media we believe in the future and in the individuals ability to change the world.
 
-### We started anarchic for one reason. To return the mic to the makers, the builders, the thinkers and the basement philosophers. Let's make change, unite and bring a better future. Together.
+### We started anarchic for one reason. To return the mic to the makers, the builders, the thinkers and the basement philosophers. Let's make change, unite and bring about a better future. Together.
+
+# If you want to get involved stay posted, we'll be open for contributions shortly.
