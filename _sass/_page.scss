@@ -146,8 +146,7 @@ span + .entry-title {
 
 	@include media($large) {
 		display: block;
-		width: 300px;
-		height: 300px;
+		@@include rounded;
 		@include clearfix;
 	}
 }
