@@ -1,10 +1,20 @@
 # Authors
 
-clevrpwn:
+billy_rick:
   name: Jerrick Davis
+  web: http://clevrpwn.xyz
   email: clevrpwn@gmail.com
-  bio: "I write. I hack. But mostly I just try to be Jack Kerouac."
+  bio: "What do you want, jewels? I am a very extravagant man."
   avatar: bio-photo-2.jpg
   twitter: clevrpwn
   google:
     plus:
+
+cornelius_fiddlebone:
+  name: Cornelius Fiddlebone
+  email: cornelius@thewhip.com
+  bio: "I ordered what?"
+  avatar: bio-photo.jpg
+  twitter: rhymeswithsackit
+  google:
+plus: CorneliusFiddlebone

@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to Anarchic.Media"
 excerpt: ""
-author: clevrpwn
+author: billy_rick
 categories: articles
 tags: [Welcome]
 image:
